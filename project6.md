@@ -283,7 +283,7 @@ Verify database
 
 ![](images/36.png)
 
-## connecting to database to webserver
+## connecting database to webserver
 
 update redhat webserver
 
